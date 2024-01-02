@@ -1,1 +1,1 @@
-An analysis done to see the disparity in gender in the Technology space.
+The project explores gender distribution, age distribution, education level, job title distribution by gender and salary gender distribution in Tech. From the visualizations: 81.8% of the survey respondents are male and only around 16% are female. Majority of survey respondents are fairly young around 25 to 34 years of age. Majority of survey respondents have a Master’s, or at least a Bachelor’s degree.
